@@ -1,0 +1,131 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.columnL {
+  display: flex;
+  flex-direction: column;
+  float: left;
+  height: '100px';
+  overflow-y: 'scroll';
+}
+
+.columnA {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  width: '80%'
+}
+
+.columnC {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+  width: '18%';
+  margin: 20px;
+}
+
+.columnCenter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: '18%';
+  margin: 20px;
+}
+
+.rowC {
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  border: 1px solid black;
+  height: 60px;
+  margin-top: 50px;
+  width: 180px;
+  float: left;
+  background-color: yellow;
+  margin-left: 32px;
+  border-radius: 10px;
+}
+
+.right-container {
+  margin-left: 100px;
+  padding-left: 190px;
+  display: flex;
+  /*the flex stylings here*/
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card-body {
+  margin-top: 16px;
+  width: 100px;
+  padding-right: 20px;
+  margin-right: 20px;
+  padding-left: 20px;
+}
+
+.card-body>img {
+  position: relative;
+  height: 80px;
+  width: 150px;
+  animation: rotation 2s infinite linear;
+}
+
+.container {
+  position: relative;
+}
+
+.item {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.item1 {
+  background: blue;
+}
+
+.item2 {
+  top: 20px;
+  left: 40px;
+  position: absolute;
+  background: red;
+}
+
+.upper-layer {
+  display: flex;
+  position: relative;
+  /* Setting the size of the upper layer to 80% of the screen size*/
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+
+  /*the alpha value controls the transparency*/
+  background: rgba(255, 255, 255, 0.3);
+
+  /* This controls the blurring effect*/
+  backdrop-filter: blur(7.5px);
+  -webkit-backdrop-filter: blur(7.5px);
+
+  /*Adding the shadow*/
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.18);
+
+  /* Adding our borders*/
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  z-index: 4;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(359deg);
+  }
+}

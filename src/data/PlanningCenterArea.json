@@ -1,0 +1,1112 @@
+{
+    "type": "FeatureCollection",
+    "name": "URA_MP19_PLNG_AREA_PL",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_1",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "5321BA51A092CCC2",
+                "PLN_AREA_C": "BM",
+                "PLN_AREA_N": "BUKIT MERAH",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.821630386633998,
+                    1.27445710276766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_2",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "6C222E4C54F9F0F7",
+                "PLN_AREA_C": "BP",
+                "PLN_AREA_N": "BUKIT PANJANG",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.773044614753005,
+                    1.36621762374966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_3",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "6CCDADD1F85173E9",
+                "PLN_AREA_C": "BT",
+                "PLN_AREA_N": "BUKIT TIMAH",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.793357420131002,
+                    1.32811700798177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_4",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "9F30125764C74984",
+                "PLN_AREA_C": "CC",
+                "PLN_AREA_N": "CENTRAL WATER CATCHMENT",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.801663758283993,
+                    1.37607625363666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_5",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "6F32A6036888B139",
+                "PLN_AREA_C": "CH",
+                "PLN_AREA_N": "CHANGI",
+                "REGION_C": "ER",
+                "REGION_N": "EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.987868883369998,
+                    1.35108260032581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_6",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "5224CD5C7960361F",
+                "PLN_AREA_C": "CK",
+                "PLN_AREA_N": "CHOA CHU KANG",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.748492531744006,
+                    1.38748572840937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_7",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "1B547582113C390E",
+                "PLN_AREA_C": "CL",
+                "PLN_AREA_N": "CLEMENTI",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.760437112983993,
+                    1.31651108448019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_8",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "6B18B43959CDE4EB",
+                "PLN_AREA_C": "HG",
+                "PLN_AREA_N": "HOUGANG",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.888800124488995,
+                    1.36094601549937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_9",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "97CD8E4DB8DA2A0D",
+                "PLN_AREA_C": "JE",
+                "PLN_AREA_N": "JURONG EAST",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.734817412724993,
+                    1.31726877211462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_10",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "15407CC4B888BDB5",
+                "PLN_AREA_C": "JW",
+                "PLN_AREA_N": "JURONG WEST",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.704815541510996,
+                    1.34395509627512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_11",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "C980FA4CF6B7E928",
+                "PLN_AREA_C": "KL",
+                "PLN_AREA_N": "KALLANG",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865106722765006,
+                    1.31232788001351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_12",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "DF6880B736F7542D",
+                "PLN_AREA_C": "LK",
+                "PLN_AREA_N": "LIM CHU KANG",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.719228422157002,
+                    1.42916218679597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_13",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "2B55BA3D015C2922",
+                "PLN_AREA_C": "MD",
+                "PLN_AREA_N": "MANDAI",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.812814706555002,
+                    1.42710300999623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_14",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "E75708EADCFF04A6",
+                "PLN_AREA_C": "NE",
+                "PLN_AREA_N": "NORTH-EASTERN ISLANDS",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.049107088407993,
+                    1.38793666263541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_15",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "163B19CA54A679AF",
+                "PLN_AREA_C": "NV",
+                "PLN_AREA_N": "NOVENA",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837228322615999,
+                    1.32609147522728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_16",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "A68481F35761C70C",
+                "PLN_AREA_C": "PR",
+                "PLN_AREA_N": "PASIR RIS",
+                "REGION_C": "ER",
+                "REGION_N": "EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.949008985692998,
+                    1.37367479113939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_17",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "3202B87B465BF3BD",
+                "PLN_AREA_C": "PN",
+                "PLN_AREA_N": "PIONEER",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.673309819810996,
+                    1.31467443316765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_18",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "51833C3BEA49A0E9",
+                "PLN_AREA_C": "PG",
+                "PLN_AREA_N": "PUNGGOL",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.908187588385005,
+                    1.40208583617882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_19",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "9745C6F57FDB836F",
+                "PLN_AREA_C": "AM",
+                "PLN_AREA_N": "ANG MO KIO",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840540408902001,
+                    1.38067456478582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_20",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "E77152927962088E",
+                "PLN_AREA_C": "BD",
+                "PLN_AREA_N": "BEDOK",
+                "REGION_C": "ER",
+                "REGION_N": "EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.929530409815001,
+                    1.3231292648329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_21",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "F06B9400ED89EF69",
+                "PLN_AREA_C": "BS",
+                "PLN_AREA_N": "BISHAN",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.837733563921006,
+                    1.35515940285334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_22",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "D67ECAA47DF4B485",
+                "PLN_AREA_C": "BL",
+                "PLN_AREA_N": "BOON LAY",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.702360071724002,
+                    1.31508489699523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_23",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "AE06442FEB6C5F2A",
+                "PLN_AREA_C": "BK",
+                "PLN_AREA_N": "BUKIT BATOK",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.752601190986994,
+                    1.35602892732148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_24",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "1D9A77FAD9B4C935",
+                "PLN_AREA_C": "QT",
+                "PLN_AREA_N": "QUEENSTOWN",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.786628201184001,
+                    1.29143510759287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_25",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "56C392DFB629FEE9",
+                "PLN_AREA_C": "SL",
+                "PLN_AREA_N": "SELETAR",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.875850876030995,
+                    1.41321605799229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_26",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "4794FB10E1985217",
+                "PLN_AREA_C": "SB",
+                "PLN_AREA_N": "SEMBAWANG",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.819239560127002,
+                    1.45405958546947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_27",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "B977008C4E1A1CC8",
+                "PLN_AREA_C": "SE",
+                "PLN_AREA_N": "SENGKANG",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.895549542178998,
+                    1.38863881936343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_28",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "99716E62F6EE17FF",
+                "PLN_AREA_C": "SG",
+                "PLN_AREA_N": "SERANGOON",
+                "REGION_C": "NER",
+                "REGION_N": "NORTH-EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.867606614714006,
+                    1.36601035871724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_29",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "B2610C588D69AD76",
+                "PLN_AREA_C": "SM",
+                "PLN_AREA_N": "SIMPANG",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.849200619700994,
+                    1.44158708334723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_30",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "4F0503C0A12D12AF",
+                "PLN_AREA_C": "SI",
+                "PLN_AREA_N": "SOUTHERN ISLANDS",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.831948160362998,
+                    1.24784232837227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_31",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "04C6F9828DBC607D",
+                "PLN_AREA_C": "SK",
+                "PLN_AREA_N": "SUNGEI KADUT",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.755741731935004,
+                    1.41965022241734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_32",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "20DDDC25B5804F60",
+                "PLN_AREA_C": "TM",
+                "PLN_AREA_N": "TAMPINES",
+                "REGION_C": "ER",
+                "REGION_N": "EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.955835824074001,
+                    1.33925300909423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_33",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "CC1757F6434A3146",
+                "PLN_AREA_C": "TN",
+                "PLN_AREA_N": "TANGLIN",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.815113952662003,
+                    1.30761030193214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_34",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "0D2FF9150EC36DFE",
+                "PLN_AREA_C": "TH",
+                "PLN_AREA_N": "TENGAH",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.725202070817005,
+                    1.36210831326703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_35",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "D70796621F573012",
+                "PLN_AREA_C": "TP",
+                "PLN_AREA_N": "TOA PAYOH",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.862479105828996,
+                    1.33645700222305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_36",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "5708A19A15524F9D",
+                "PLN_AREA_C": "TS",
+                "PLN_AREA_N": "TUAS",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.628906580337002,
+                    1.27626888243405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_37",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "CE4B48C87C8B96CF",
+                "PLN_AREA_C": "DT",
+                "PLN_AREA_N": "DOWNTOWN CORE",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.856088144408005,
+                    1.28658768326316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_38",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "1B9566319261C802",
+                "PLN_AREA_C": "ME",
+                "PLN_AREA_N": "MARINA EAST",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.872106152976997,
+                    1.28723636442003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_39",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "B8C58231EDA3C8A6",
+                "PLN_AREA_C": "MS",
+                "PLN_AREA_N": "MARINA SOUTH",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.865332279745004,
+                    1.28060539771531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_40",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "0FF25CE84EE9F18C",
+                "PLN_AREA_C": "MU",
+                "PLN_AREA_N": "MUSEUM",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.847505745705007,
+                    1.29597225707294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_41",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "45715157A7A3A806",
+                "PLN_AREA_C": "NT",
+                "PLN_AREA_N": "NEWTON",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840985054700994,
+                    1.30850547334491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_42",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "6F796784885688A9",
+                "PLN_AREA_C": "OR",
+                "PLN_AREA_N": "ORCHARD",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.834064175313003,
+                    1.3040130170631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_43",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "D346689682541537",
+                "PLN_AREA_C": "OT",
+                "PLN_AREA_N": "OUTRAM",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843701462886003,
+                    1.28162633093269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_44",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "A145C7D45897566D",
+                "PLN_AREA_C": "RV",
+                "PLN_AREA_N": "RIVER VALLEY",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.836370810581997,
+                    1.29788366604908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_45",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "83A4DC56F78F7A3E",
+                "PLN_AREA_C": "RC",
+                "PLN_AREA_N": "ROCHOR",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.854284214531006,
+                    1.30499471898718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_46",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "EA4AA9165CE146C1",
+                "PLN_AREA_C": "SR",
+                "PLN_AREA_N": "SINGAPORE RIVER",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.840498510127006,
+                    1.29087076293796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_47",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "23358C7A78E76CE2",
+                "PLN_AREA_C": "SV",
+                "PLN_AREA_N": "STRAITS VIEW",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.859447901275004,
+                    1.27282582324048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_48",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "42AC44DA6E3279E0",
+                "PLN_AREA_C": "CB",
+                "PLN_AREA_N": "CHANGI BAY",
+                "REGION_C": "ER",
+                "REGION_N": "EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.023993593144993,
+                    1.31305452380249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_49",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "C73536F2CD6206F6",
+                "PLN_AREA_C": "MP",
+                "PLN_AREA_N": "MARINE PARADE",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.897395062534002,
+                    1.30199979072165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_50",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "31B24F4378BBAF9C",
+                "PLN_AREA_C": "GL",
+                "PLN_AREA_N": "GEYLANG",
+                "REGION_C": "CR",
+                "REGION_N": "CENTRAL REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.889852073813998,
+                    1.32116341584106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_51",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "CF70A103EED749D0",
+                "PLN_AREA_C": "PL",
+                "PLN_AREA_N": "PAYA LEBAR",
+                "REGION_C": "ER",
+                "REGION_N": "EAST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.917381008415006,
+                    1.36055412744171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_52",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "FAF4016A22F192E5",
+                "PLN_AREA_C": "WI",
+                "PLN_AREA_N": "WESTERN ISLANDS",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.695734079518004,
+                    1.26825940183434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_53",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "53C9CA98365E8A5B",
+                "PLN_AREA_C": "WC",
+                "PLN_AREA_N": "WESTERN WATER CATCHMENT",
+                "REGION_C": "WR",
+                "REGION_N": "WEST REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.694919664042999,
+                    1.38495671731461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_54",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "4DBDA89C0D15D5FD",
+                "PLN_AREA_C": "WD",
+                "PLN_AREA_N": "WOODLANDS",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.788492143728007,
+                    1.44057034528657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "kml_55",
+                "CA_IND": 0,
+                "FMEL_UPD_D": 20191206144700,
+                "INC_CRC": "D20FD597C82D190A",
+                "PLN_AREA_C": "YS",
+                "PLN_AREA_N": "YISHUN",
+                "REGION_C": "NR",
+                "REGION_N": "NORTH REGION"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.843395041144007,
+                    1.4190311787317
+                ]
+            }
+        }
+    ]
+}

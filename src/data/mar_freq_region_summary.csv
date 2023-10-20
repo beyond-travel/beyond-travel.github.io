@@ -1,0 +1,746 @@
+destination_area_code,origin_area_code,origin_area_name,destination_area_name,section_of_day,count_trips
+kml_1,kml_1,BUKIT MERAH,BUKIT MERAH,afternoon,372
+kml_1,kml_1,BUKIT MERAH,BUKIT MERAH,evening,258
+kml_1,kml_1,BUKIT MERAH,BUKIT MERAH,morning,881
+kml_1,kml_1,BUKIT MERAH,BUKIT MERAH,night,1
+kml_1,kml_10,JURONG WEST,BUKIT MERAH,evening,7
+kml_1,kml_10,JURONG WEST,BUKIT MERAH,morning,11
+kml_1,kml_11,KALLANG,BUKIT MERAH,evening,11
+kml_1,kml_20,BEDOK,BUKIT MERAH,evening,11
+kml_1,kml_23,BUKIT BATOK,BUKIT MERAH,morning,1
+kml_1,kml_24,QUEENSTOWN,BUKIT MERAH,afternoon,56
+kml_1,kml_24,QUEENSTOWN,BUKIT MERAH,evening,37
+kml_1,kml_24,QUEENSTOWN,BUKIT MERAH,morning,67
+kml_1,kml_26,SEMBAWANG,BUKIT MERAH,evening,10
+kml_1,kml_33,TANGLIN,BUKIT MERAH,afternoon,10
+kml_1,kml_33,TANGLIN,BUKIT MERAH,morning,39
+kml_1,kml_37,DOWNTOWN CORE,BUKIT MERAH,evening,63
+kml_1,kml_40,MUSEUM,BUKIT MERAH,morning,7
+kml_1,kml_42,ORCHARD,BUKIT MERAH,evening,17
+kml_1,kml_42,ORCHARD,BUKIT MERAH,morning,10
+kml_1,kml_43,OUTRAM,BUKIT MERAH,afternoon,6
+kml_1,kml_43,OUTRAM,BUKIT MERAH,evening,13
+kml_1,kml_43,OUTRAM,BUKIT MERAH,morning,36
+kml_1,kml_44,RIVER VALLEY,BUKIT MERAH,morning,1
+kml_1,kml_46,SINGAPORE RIVER,BUKIT MERAH,afternoon,13
+kml_1,kml_46,SINGAPORE RIVER,BUKIT MERAH,evening,3
+kml_1,kml_46,SINGAPORE RIVER,BUKIT MERAH,morning,28
+kml_1,kml_50,GEYLANG,BUKIT MERAH,evening,5
+kml_1,kml_50,GEYLANG,BUKIT MERAH,morning,12
+kml_1,kml_7,CLEMENTI,BUKIT MERAH,morning,16
+kml_1,kml_9,JURONG EAST,BUKIT MERAH,morning,10
+kml_10,kml_1,BUKIT MERAH,JURONG WEST,afternoon,11
+kml_10,kml_1,BUKIT MERAH,JURONG WEST,morning,7
+kml_10,kml_10,JURONG WEST,JURONG WEST,afternoon,605
+kml_10,kml_10,JURONG WEST,JURONG WEST,evening,494
+kml_10,kml_10,JURONG WEST,JURONG WEST,morning,1766
+kml_10,kml_10,JURONG WEST,JURONG WEST,night,55
+kml_10,kml_11,KALLANG,JURONG WEST,evening,17
+kml_10,kml_15,NOVENA,JURONG WEST,afternoon,10
+kml_10,kml_19,ANG MO KIO,JURONG WEST,morning,10
+kml_10,kml_20,BEDOK,JURONG WEST,afternoon,10
+kml_10,kml_20,BEDOK,JURONG WEST,morning,17
+kml_10,kml_21,BISHAN,JURONG WEST,morning,9
+kml_10,kml_23,BUKIT BATOK,JURONG WEST,morning,40
+kml_10,kml_24,QUEENSTOWN,JURONG WEST,night,15
+kml_10,kml_26,SEMBAWANG,JURONG WEST,afternoon,11
+kml_10,kml_41,NEWTON,JURONG WEST,evening,4
+kml_10,kml_53,WESTERN WATER CATCHMENT,JURONG WEST,evening,17
+kml_10,kml_54,WOODLANDS,JURONG WEST,afternoon,11
+kml_10,kml_54,WOODLANDS,JURONG WEST,morning,47
+kml_10,kml_55,YISHUN,JURONG WEST,evening,11
+kml_10,kml_6,CHOA CHU KANG,JURONG WEST,afternoon,2
+kml_10,kml_6,CHOA CHU KANG,JURONG WEST,morning,23
+kml_10,kml_7,CLEMENTI,JURONG WEST,evening,6
+kml_10,kml_7,CLEMENTI,JURONG WEST,morning,11
+kml_10,kml_7,CLEMENTI,JURONG WEST,night,13
+kml_10,kml_9,JURONG EAST,JURONG WEST,afternoon,131
+kml_10,kml_9,JURONG EAST,JURONG WEST,evening,142
+kml_10,kml_9,JURONG EAST,JURONG WEST,morning,93
+kml_11,kml_1,BUKIT MERAH,KALLANG,morning,10
+kml_11,kml_10,JURONG WEST,KALLANG,morning,17
+kml_11,kml_11,KALLANG,KALLANG,afternoon,27
+kml_11,kml_11,KALLANG,KALLANG,evening,34
+kml_11,kml_11,KALLANG,KALLANG,morning,96
+kml_11,kml_11,KALLANG,KALLANG,night,7
+kml_11,kml_15,NOVENA,KALLANG,afternoon,30
+kml_11,kml_15,NOVENA,KALLANG,morning,73
+kml_11,kml_16,PASIR RIS,KALLANG,morning,17
+kml_11,kml_20,BEDOK,KALLANG,morning,11
+kml_11,kml_24,QUEENSTOWN,KALLANG,morning,9
+kml_11,kml_35,TOA PAYOH,KALLANG,afternoon,11
+kml_11,kml_35,TOA PAYOH,KALLANG,morning,18
+kml_11,kml_37,DOWNTOWN CORE,KALLANG,evening,6
+kml_11,kml_45,ROCHOR,KALLANG,afternoon,6
+kml_11,kml_45,ROCHOR,KALLANG,evening,25
+kml_11,kml_45,ROCHOR,KALLANG,morning,60
+kml_11,kml_49,MARINE PARADE,KALLANG,evening,15
+kml_11,kml_49,MARINE PARADE,KALLANG,morning,33
+kml_11,kml_50,GEYLANG,KALLANG,afternoon,55
+kml_11,kml_50,GEYLANG,KALLANG,evening,48
+kml_11,kml_50,GEYLANG,KALLANG,morning,96
+kml_11,kml_55,YISHUN,KALLANG,morning,14
+kml_11,kml_9,JURONG EAST,KALLANG,night,10
+kml_15,kml_1,BUKIT MERAH,NOVENA,morning,17
+kml_15,kml_10,JURONG WEST,NOVENA,morning,21
+kml_15,kml_11,KALLANG,NOVENA,afternoon,36
+kml_15,kml_11,KALLANG,NOVENA,evening,15
+kml_15,kml_11,KALLANG,NOVENA,morning,35
+kml_15,kml_15,NOVENA,NOVENA,afternoon,47
+kml_15,kml_15,NOVENA,NOVENA,evening,14
+kml_15,kml_15,NOVENA,NOVENA,morning,160
+kml_15,kml_18,PUNGGOL,NOVENA,morning,4
+kml_15,kml_19,ANG MO KIO,NOVENA,morning,65
+kml_15,kml_20,BEDOK,NOVENA,morning,26
+kml_15,kml_21,BISHAN,NOVENA,morning,7
+kml_15,kml_26,SEMBAWANG,NOVENA,morning,41
+kml_15,kml_3,BUKIT TIMAH,NOVENA,morning,2
+kml_15,kml_35,TOA PAYOH,NOVENA,afternoon,35
+kml_15,kml_35,TOA PAYOH,NOVENA,morning,177
+kml_15,kml_37,DOWNTOWN CORE,NOVENA,morning,5
+kml_15,kml_41,NEWTON,NOVENA,morning,53
+kml_15,kml_42,ORCHARD,NOVENA,morning,12
+kml_15,kml_44,RIVER VALLEY,NOVENA,morning,10
+kml_15,kml_45,ROCHOR,NOVENA,evening,14
+kml_15,kml_45,ROCHOR,NOVENA,morning,68
+kml_15,kml_54,WOODLANDS,NOVENA,morning,24
+kml_15,kml_55,YISHUN,NOVENA,afternoon,3
+kml_15,kml_55,YISHUN,NOVENA,morning,74
+kml_15,kml_6,CHOA CHU KANG,NOVENA,afternoon,11
+kml_15,kml_6,CHOA CHU KANG,NOVENA,morning,13
+kml_15,kml_7,CLEMENTI,NOVENA,morning,13
+kml_16,kml_11,KALLANG,PASIR RIS,evening,17
+kml_16,kml_15,NOVENA,PASIR RIS,morning,9
+kml_16,kml_16,PASIR RIS,PASIR RIS,afternoon,166
+kml_16,kml_16,PASIR RIS,PASIR RIS,evening,92
+kml_16,kml_16,PASIR RIS,PASIR RIS,morning,438
+kml_16,kml_16,PASIR RIS,PASIR RIS,night,14
+kml_16,kml_18,PUNGGOL,PASIR RIS,morning,32
+kml_16,kml_20,BEDOK,PASIR RIS,evening,13
+kml_16,kml_20,BEDOK,PASIR RIS,morning,18
+kml_16,kml_27,SENGKANG,PASIR RIS,morning,25
+kml_16,kml_28,SERANGOON,PASIR RIS,morning,11
+kml_16,kml_32,TAMPINES,PASIR RIS,afternoon,40
+kml_16,kml_32,TAMPINES,PASIR RIS,evening,88
+kml_16,kml_32,TAMPINES,PASIR RIS,morning,52
+kml_16,kml_40,MUSEUM,PASIR RIS,night,19
+kml_16,kml_5,CHANGI,PASIR RIS,evening,2
+kml_16,kml_5,CHANGI,PASIR RIS,morning,21
+kml_16,kml_5,CHANGI,PASIR RIS,night,1
+kml_16,kml_50,GEYLANG,PASIR RIS,evening,10
+kml_16,kml_55,YISHUN,PASIR RIS,evening,12
+kml_16,kml_8,HOUGANG,PASIR RIS,evening,51
+kml_17,kml_24,QUEENSTOWN,PIONEER,morning,3
+kml_17,kml_27,SENGKANG,PIONEER,morning,14
+kml_17,kml_36,TUAS,PIONEER,evening,12
+kml_17,kml_54,WOODLANDS,PIONEER,morning,10
+kml_17,kml_7,CLEMENTI,PIONEER,morning,10
+kml_18,kml_18,PUNGGOL,PUNGGOL,afternoon,97
+kml_18,kml_18,PUNGGOL,PUNGGOL,evening,106
+kml_18,kml_18,PUNGGOL,PUNGGOL,morning,296
+kml_18,kml_20,BEDOK,PUNGGOL,afternoon,10
+kml_18,kml_27,SENGKANG,PUNGGOL,afternoon,103
+kml_18,kml_27,SENGKANG,PUNGGOL,evening,217
+kml_18,kml_27,SENGKANG,PUNGGOL,morning,109
+kml_18,kml_27,SENGKANG,PUNGGOL,night,8
+kml_18,kml_28,SERANGOON,PUNGGOL,morning,6
+kml_18,kml_32,TAMPINES,PUNGGOL,afternoon,24
+kml_18,kml_37,DOWNTOWN CORE,PUNGGOL,evening,9
+kml_18,kml_42,ORCHARD,PUNGGOL,night,2
+kml_18,kml_55,YISHUN,PUNGGOL,evening,10
+kml_18,kml_55,YISHUN,PUNGGOL,morning,3
+kml_18,kml_8,HOUGANG,PUNGGOL,afternoon,1
+kml_18,kml_8,HOUGANG,PUNGGOL,evening,14
+kml_18,kml_8,HOUGANG,PUNGGOL,morning,14
+kml_18,kml_9,JURONG EAST,PUNGGOL,night,16
+kml_19,kml_1,BUKIT MERAH,ANG MO KIO,morning,11
+kml_19,kml_10,JURONG WEST,ANG MO KIO,morning,1
+kml_19,kml_15,NOVENA,ANG MO KIO,afternoon,24
+kml_19,kml_15,NOVENA,ANG MO KIO,evening,13
+kml_19,kml_19,ANG MO KIO,ANG MO KIO,afternoon,242
+kml_19,kml_19,ANG MO KIO,ANG MO KIO,evening,168
+kml_19,kml_19,ANG MO KIO,ANG MO KIO,morning,918
+kml_19,kml_19,ANG MO KIO,ANG MO KIO,night,20
+kml_19,kml_21,BISHAN,ANG MO KIO,afternoon,13
+kml_19,kml_21,BISHAN,ANG MO KIO,evening,36
+kml_19,kml_21,BISHAN,ANG MO KIO,morning,98
+kml_19,kml_26,SEMBAWANG,ANG MO KIO,morning,25
+kml_19,kml_27,SENGKANG,ANG MO KIO,morning,59
+kml_19,kml_28,SERANGOON,ANG MO KIO,afternoon,11
+kml_19,kml_28,SERANGOON,ANG MO KIO,evening,18
+kml_19,kml_28,SERANGOON,ANG MO KIO,morning,72
+kml_19,kml_35,TOA PAYOH,ANG MO KIO,afternoon,7
+kml_19,kml_35,TOA PAYOH,ANG MO KIO,evening,19
+kml_19,kml_35,TOA PAYOH,ANG MO KIO,morning,60
+kml_19,kml_42,ORCHARD,ANG MO KIO,night,18
+kml_19,kml_50,GEYLANG,ANG MO KIO,afternoon,13
+kml_19,kml_54,WOODLANDS,ANG MO KIO,morning,25
+kml_19,kml_54,WOODLANDS,ANG MO KIO,night,15
+kml_19,kml_55,YISHUN,ANG MO KIO,evening,35
+kml_19,kml_55,YISHUN,ANG MO KIO,morning,53
+kml_19,kml_6,CHOA CHU KANG,ANG MO KIO,morning,8
+kml_19,kml_8,HOUGANG,ANG MO KIO,evening,25
+kml_19,kml_8,HOUGANG,ANG MO KIO,morning,87
+kml_2,kml_2,BUKIT PANJANG,BUKIT PANJANG,afternoon,299
+kml_2,kml_2,BUKIT PANJANG,BUKIT PANJANG,dawn,17
+kml_2,kml_2,BUKIT PANJANG,BUKIT PANJANG,evening,126
+kml_2,kml_2,BUKIT PANJANG,BUKIT PANJANG,morning,747
+kml_2,kml_2,BUKIT PANJANG,BUKIT PANJANG,night,30
+kml_2,kml_23,BUKIT BATOK,BUKIT PANJANG,afternoon,13
+kml_2,kml_23,BUKIT BATOK,BUKIT PANJANG,evening,9
+kml_2,kml_23,BUKIT BATOK,BUKIT PANJANG,morning,17
+kml_2,kml_37,DOWNTOWN CORE,BUKIT PANJANG,night,13
+kml_2,kml_54,WOODLANDS,BUKIT PANJANG,night,9
+kml_2,kml_55,YISHUN,BUKIT PANJANG,evening,13
+kml_2,kml_6,CHOA CHU KANG,BUKIT PANJANG,afternoon,47
+kml_2,kml_6,CHOA CHU KANG,BUKIT PANJANG,evening,40
+kml_2,kml_6,CHOA CHU KANG,BUKIT PANJANG,morning,121
+kml_2,kml_6,CHOA CHU KANG,BUKIT PANJANG,night,13
+kml_2,kml_7,CLEMENTI,BUKIT PANJANG,evening,1
+kml_2,kml_7,CLEMENTI,BUKIT PANJANG,night,11
+kml_2,kml_9,JURONG EAST,BUKIT PANJANG,morning,13
+kml_20,kml_1,BUKIT MERAH,BEDOK,morning,11
+kml_20,kml_10,JURONG WEST,BEDOK,evening,10
+kml_20,kml_10,JURONG WEST,BEDOK,morning,10
+kml_20,kml_11,KALLANG,BEDOK,morning,14
+kml_20,kml_15,NOVENA,BEDOK,afternoon,9
+kml_20,kml_16,PASIR RIS,BEDOK,afternoon,11
+kml_20,kml_16,PASIR RIS,BEDOK,morning,20
+kml_20,kml_18,PUNGGOL,BEDOK,morning,40
+kml_20,kml_20,BEDOK,BEDOK,afternoon,466
+kml_20,kml_20,BEDOK,BEDOK,evening,410
+kml_20,kml_20,BEDOK,BEDOK,morning,1145
+kml_20,kml_20,BEDOK,BEDOK,night,19
+kml_20,kml_32,TAMPINES,BEDOK,afternoon,35
+kml_20,kml_32,TAMPINES,BEDOK,evening,47
+kml_20,kml_32,TAMPINES,BEDOK,morning,47
+kml_20,kml_33,TANGLIN,BEDOK,morning,12
+kml_20,kml_35,TOA PAYOH,BEDOK,morning,12
+kml_20,kml_37,DOWNTOWN CORE,BEDOK,evening,14
+kml_20,kml_37,DOWNTOWN CORE,BEDOK,morning,10
+kml_20,kml_41,NEWTON,BEDOK,morning,1
+kml_20,kml_42,ORCHARD,BEDOK,evening,8
+kml_20,kml_49,MARINE PARADE,BEDOK,afternoon,45
+kml_20,kml_49,MARINE PARADE,BEDOK,evening,86
+kml_20,kml_49,MARINE PARADE,BEDOK,morning,44
+kml_20,kml_5,CHANGI,BEDOK,evening,11
+kml_20,kml_50,GEYLANG,BEDOK,afternoon,29
+kml_20,kml_50,GEYLANG,BEDOK,evening,57
+kml_20,kml_50,GEYLANG,BEDOK,morning,67
+kml_20,kml_8,HOUGANG,BEDOK,morning,33
+kml_21,kml_15,NOVENA,BISHAN,morning,7
+kml_21,kml_19,ANG MO KIO,BISHAN,afternoon,46
+kml_21,kml_19,ANG MO KIO,BISHAN,evening,35
+kml_21,kml_19,ANG MO KIO,BISHAN,morning,52
+kml_21,kml_21,BISHAN,BISHAN,afternoon,116
+kml_21,kml_21,BISHAN,BISHAN,evening,64
+kml_21,kml_21,BISHAN,BISHAN,morning,318
+kml_21,kml_21,BISHAN,BISHAN,night,12
+kml_21,kml_27,SENGKANG,BISHAN,morning,8
+kml_21,kml_28,SERANGOON,BISHAN,afternoon,12
+kml_21,kml_28,SERANGOON,BISHAN,morning,16
+kml_21,kml_35,TOA PAYOH,BISHAN,evening,29
+kml_21,kml_35,TOA PAYOH,BISHAN,morning,23
+kml_21,kml_4,CENTRAL WATER CATCHMENT,BISHAN,evening,14
+kml_21,kml_45,ROCHOR,BISHAN,evening,16
+kml_21,kml_55,YISHUN,BISHAN,morning,16
+kml_21,kml_8,HOUGANG,BISHAN,morning,9
+kml_23,kml_10,JURONG WEST,BUKIT BATOK,afternoon,14
+kml_23,kml_10,JURONG WEST,BUKIT BATOK,evening,12
+kml_23,kml_10,JURONG WEST,BUKIT BATOK,morning,12
+kml_23,kml_15,NOVENA,BUKIT BATOK,morning,7
+kml_23,kml_2,BUKIT PANJANG,BUKIT BATOK,afternoon,14
+kml_23,kml_2,BUKIT PANJANG,BUKIT BATOK,morning,5
+kml_23,kml_20,BEDOK,BUKIT BATOK,morning,9
+kml_23,kml_23,BUKIT BATOK,BUKIT BATOK,afternoon,167
+kml_23,kml_23,BUKIT BATOK,BUKIT BATOK,evening,107
+kml_23,kml_23,BUKIT BATOK,BUKIT BATOK,morning,383
+kml_23,kml_24,QUEENSTOWN,BUKIT BATOK,evening,1
+kml_23,kml_24,QUEENSTOWN,BUKIT BATOK,morning,14
+kml_23,kml_3,BUKIT TIMAH,BUKIT BATOK,afternoon,32
+kml_23,kml_3,BUKIT TIMAH,BUKIT BATOK,evening,26
+kml_23,kml_3,BUKIT TIMAH,BUKIT BATOK,morning,6
+kml_23,kml_31,SUNGEI KADUT,BUKIT BATOK,morning,14
+kml_23,kml_33,TANGLIN,BUKIT BATOK,morning,8
+kml_23,kml_54,WOODLANDS,BUKIT BATOK,morning,17
+kml_23,kml_55,YISHUN,BUKIT BATOK,morning,1
+kml_23,kml_6,CHOA CHU KANG,BUKIT BATOK,afternoon,37
+kml_23,kml_6,CHOA CHU KANG,BUKIT BATOK,evening,3
+kml_23,kml_6,CHOA CHU KANG,BUKIT BATOK,morning,46
+kml_23,kml_7,CLEMENTI,BUKIT BATOK,afternoon,28
+kml_23,kml_7,CLEMENTI,BUKIT BATOK,morning,38
+kml_23,kml_9,JURONG EAST,BUKIT BATOK,afternoon,41
+kml_23,kml_9,JURONG EAST,BUKIT BATOK,evening,12
+kml_23,kml_9,JURONG EAST,BUKIT BATOK,morning,40
+kml_23,kml_9,JURONG EAST,BUKIT BATOK,night,12
+kml_24,kml_1,BUKIT MERAH,QUEENSTOWN,afternoon,47
+kml_24,kml_1,BUKIT MERAH,QUEENSTOWN,evening,54
+kml_24,kml_1,BUKIT MERAH,QUEENSTOWN,morning,136
+kml_24,kml_1,BUKIT MERAH,QUEENSTOWN,night,6
+kml_24,kml_10,JURONG WEST,QUEENSTOWN,afternoon,12
+kml_24,kml_10,JURONG WEST,QUEENSTOWN,morning,48
+kml_24,kml_15,NOVENA,QUEENSTOWN,morning,20
+kml_24,kml_17,PIONEER,QUEENSTOWN,evening,3
+kml_24,kml_20,BEDOK,QUEENSTOWN,morning,20
+kml_24,kml_23,BUKIT BATOK,QUEENSTOWN,afternoon,13
+kml_24,kml_23,BUKIT BATOK,QUEENSTOWN,evening,16
+kml_24,kml_23,BUKIT BATOK,QUEENSTOWN,morning,31
+kml_24,kml_24,QUEENSTOWN,QUEENSTOWN,afternoon,193
+kml_24,kml_24,QUEENSTOWN,QUEENSTOWN,evening,147
+kml_24,kml_24,QUEENSTOWN,QUEENSTOWN,morning,554
+kml_24,kml_24,QUEENSTOWN,QUEENSTOWN,night,15
+kml_24,kml_3,BUKIT TIMAH,QUEENSTOWN,afternoon,16
+kml_24,kml_3,BUKIT TIMAH,QUEENSTOWN,evening,15
+kml_24,kml_32,TAMPINES,QUEENSTOWN,morning,13
+kml_24,kml_33,TANGLIN,QUEENSTOWN,afternoon,15
+kml_24,kml_37,DOWNTOWN CORE,QUEENSTOWN,evening,31
+kml_24,kml_44,RIVER VALLEY,QUEENSTOWN,evening,9
+kml_24,kml_44,RIVER VALLEY,QUEENSTOWN,morning,10
+kml_24,kml_5,CHANGI,QUEENSTOWN,night,2
+kml_24,kml_54,WOODLANDS,QUEENSTOWN,morning,18
+kml_24,kml_54,WOODLANDS,QUEENSTOWN,night,18
+kml_24,kml_55,YISHUN,QUEENSTOWN,morning,6
+kml_24,kml_6,CHOA CHU KANG,QUEENSTOWN,afternoon,12
+kml_24,kml_6,CHOA CHU KANG,QUEENSTOWN,morning,28
+kml_24,kml_7,CLEMENTI,QUEENSTOWN,afternoon,34
+kml_24,kml_7,CLEMENTI,QUEENSTOWN,evening,96
+kml_24,kml_7,CLEMENTI,QUEENSTOWN,morning,223
+kml_24,kml_7,CLEMENTI,QUEENSTOWN,night,1
+kml_25,kml_27,SENGKANG,SELETAR,afternoon,13
+kml_25,kml_54,WOODLANDS,SELETAR,morning,2
+kml_25,kml_55,YISHUN,SELETAR,evening,5
+kml_26,kml_1,BUKIT MERAH,SEMBAWANG,morning,10
+kml_26,kml_10,JURONG WEST,SEMBAWANG,morning,12
+kml_26,kml_11,KALLANG,SEMBAWANG,evening,7
+kml_26,kml_13,MANDAI,SEMBAWANG,morning,1
+kml_26,kml_15,NOVENA,SEMBAWANG,evening,30
+kml_26,kml_19,ANG MO KIO,SEMBAWANG,afternoon,1
+kml_26,kml_19,ANG MO KIO,SEMBAWANG,evening,10
+kml_26,kml_23,BUKIT BATOK,SEMBAWANG,morning,2
+kml_26,kml_26,SEMBAWANG,SEMBAWANG,afternoon,115
+kml_26,kml_26,SEMBAWANG,SEMBAWANG,evening,51
+kml_26,kml_26,SEMBAWANG,SEMBAWANG,morning,321
+kml_26,kml_37,DOWNTOWN CORE,SEMBAWANG,evening,3
+kml_26,kml_37,DOWNTOWN CORE,SEMBAWANG,night,11
+kml_26,kml_42,ORCHARD,SEMBAWANG,night,12
+kml_26,kml_54,WOODLANDS,SEMBAWANG,morning,70
+kml_26,kml_54,WOODLANDS,SEMBAWANG,night,18
+kml_26,kml_55,YISHUN,SEMBAWANG,afternoon,12
+kml_26,kml_55,YISHUN,SEMBAWANG,evening,1
+kml_26,kml_55,YISHUN,SEMBAWANG,morning,19
+kml_26,kml_6,CHOA CHU KANG,SEMBAWANG,morning,59
+kml_26,kml_9,JURONG EAST,SEMBAWANG,evening,13
+kml_27,kml_16,PASIR RIS,SENGKANG,morning,23
+kml_27,kml_17,PIONEER,SENGKANG,evening,14
+kml_27,kml_18,PUNGGOL,SENGKANG,afternoon,41
+kml_27,kml_18,PUNGGOL,SENGKANG,evening,113
+kml_27,kml_18,PUNGGOL,SENGKANG,morning,314
+kml_27,kml_18,PUNGGOL,SENGKANG,night,12
+kml_27,kml_19,ANG MO KIO,SENGKANG,evening,22
+kml_27,kml_19,ANG MO KIO,SENGKANG,morning,9
+kml_27,kml_25,SELETAR,SENGKANG,evening,12
+kml_27,kml_27,SENGKANG,SENGKANG,afternoon,372
+kml_27,kml_27,SENGKANG,SENGKANG,evening,199
+kml_27,kml_27,SENGKANG,SENGKANG,morning,959
+kml_27,kml_28,SERANGOON,SENGKANG,afternoon,21
+kml_27,kml_28,SERANGOON,SENGKANG,evening,13
+kml_27,kml_28,SERANGOON,SENGKANG,morning,56
+kml_27,kml_32,TAMPINES,SENGKANG,afternoon,3
+kml_27,kml_32,TAMPINES,SENGKANG,evening,11
+kml_27,kml_32,TAMPINES,SENGKANG,morning,9
+kml_27,kml_50,GEYLANG,SENGKANG,morning,4
+kml_27,kml_55,YISHUN,SENGKANG,afternoon,13
+kml_27,kml_8,HOUGANG,SENGKANG,afternoon,49
+kml_27,kml_8,HOUGANG,SENGKANG,evening,73
+kml_27,kml_8,HOUGANG,SENGKANG,morning,200
+kml_28,kml_16,PASIR RIS,SERANGOON,morning,1
+kml_28,kml_19,ANG MO KIO,SERANGOON,afternoon,22
+kml_28,kml_19,ANG MO KIO,SERANGOON,evening,11
+kml_28,kml_19,ANG MO KIO,SERANGOON,morning,75
+kml_28,kml_21,BISHAN,SERANGOON,afternoon,1
+kml_28,kml_21,BISHAN,SERANGOON,morning,53
+kml_28,kml_27,SENGKANG,SERANGOON,morning,9
+kml_28,kml_27,SENGKANG,SERANGOON,night,16
+kml_28,kml_28,SERANGOON,SERANGOON,afternoon,141
+kml_28,kml_28,SERANGOON,SERANGOON,evening,90
+kml_28,kml_28,SERANGOON,SERANGOON,morning,387
+kml_28,kml_28,SERANGOON,SERANGOON,night,13
+kml_28,kml_33,TANGLIN,SERANGOON,morning,5
+kml_28,kml_35,TOA PAYOH,SERANGOON,evening,13
+kml_28,kml_35,TOA PAYOH,SERANGOON,morning,22
+kml_28,kml_41,NEWTON,SERANGOON,morning,22
+kml_28,kml_50,GEYLANG,SERANGOON,morning,12
+kml_28,kml_8,HOUGANG,SERANGOON,afternoon,25
+kml_28,kml_8,HOUGANG,SERANGOON,evening,15
+kml_28,kml_8,HOUGANG,SERANGOON,morning,256
+kml_3,kml_19,ANG MO KIO,BUKIT TIMAH,morning,15
+kml_3,kml_2,BUKIT PANJANG,BUKIT TIMAH,afternoon,12
+kml_3,kml_2,BUKIT PANJANG,BUKIT TIMAH,morning,42
+kml_3,kml_21,BISHAN,BUKIT TIMAH,morning,11
+kml_3,kml_23,BUKIT BATOK,BUKIT TIMAH,afternoon,10
+kml_3,kml_23,BUKIT BATOK,BUKIT TIMAH,morning,59
+kml_3,kml_24,QUEENSTOWN,BUKIT TIMAH,afternoon,20
+kml_3,kml_24,QUEENSTOWN,BUKIT TIMAH,evening,3
+kml_3,kml_24,QUEENSTOWN,BUKIT TIMAH,morning,26
+kml_3,kml_3,BUKIT TIMAH,BUKIT TIMAH,afternoon,64
+kml_3,kml_3,BUKIT TIMAH,BUKIT TIMAH,evening,15
+kml_3,kml_3,BUKIT TIMAH,BUKIT TIMAH,morning,141
+kml_3,kml_33,TANGLIN,BUKIT TIMAH,morning,11
+kml_3,kml_7,CLEMENTI,BUKIT TIMAH,afternoon,6
+kml_3,kml_7,CLEMENTI,BUKIT TIMAH,morning,45
+kml_3,kml_9,JURONG EAST,BUKIT TIMAH,morning,2
+kml_31,kml_10,JURONG WEST,SUNGEI KADUT,evening,2
+kml_31,kml_18,PUNGGOL,SUNGEI KADUT,morning,4
+kml_31,kml_23,BUKIT BATOK,SUNGEI KADUT,evening,14
+kml_31,kml_4,CENTRAL WATER CATCHMENT,SUNGEI KADUT,night,15
+kml_31,kml_6,CHOA CHU KANG,SUNGEI KADUT,morning,11
+kml_32,kml_1,BUKIT MERAH,TAMPINES,evening,3
+kml_32,kml_11,KALLANG,TAMPINES,morning,1
+kml_32,kml_16,PASIR RIS,TAMPINES,afternoon,32
+kml_32,kml_16,PASIR RIS,TAMPINES,morning,160
+kml_32,kml_18,PUNGGOL,TAMPINES,morning,58
+kml_32,kml_20,BEDOK,TAMPINES,afternoon,27
+kml_32,kml_20,BEDOK,TAMPINES,evening,11
+kml_32,kml_20,BEDOK,TAMPINES,morning,96
+kml_32,kml_26,SEMBAWANG,TAMPINES,morning,1
+kml_32,kml_27,SENGKANG,TAMPINES,morning,3
+kml_32,kml_32,TAMPINES,TAMPINES,afternoon,465
+kml_32,kml_32,TAMPINES,TAMPINES,evening,288
+kml_32,kml_32,TAMPINES,TAMPINES,morning,987
+kml_32,kml_32,TAMPINES,TAMPINES,night,15
+kml_32,kml_37,DOWNTOWN CORE,TAMPINES,evening,31
+kml_32,kml_37,DOWNTOWN CORE,TAMPINES,night,11
+kml_32,kml_49,MARINE PARADE,TAMPINES,afternoon,11
+kml_32,kml_49,MARINE PARADE,TAMPINES,evening,1
+kml_32,kml_5,CHANGI,TAMPINES,morning,9
+kml_32,kml_50,GEYLANG,TAMPINES,morning,19
+kml_32,kml_9,JURONG EAST,TAMPINES,morning,11
+kml_33,kml_1,BUKIT MERAH,TANGLIN,morning,44
+kml_33,kml_15,NOVENA,TANGLIN,afternoon,1
+kml_33,kml_24,QUEENSTOWN,TANGLIN,afternoon,9
+kml_33,kml_24,QUEENSTOWN,TANGLIN,morning,21
+kml_33,kml_3,BUKIT TIMAH,TANGLIN,afternoon,4
+kml_33,kml_3,BUKIT TIMAH,TANGLIN,morning,6
+kml_33,kml_33,TANGLIN,TANGLIN,afternoon,22
+kml_33,kml_41,NEWTON,TANGLIN,morning,2
+kml_33,kml_42,ORCHARD,TANGLIN,morning,8
+kml_33,kml_7,CLEMENTI,TANGLIN,morning,4
+kml_35,kml_1,BUKIT MERAH,TOA PAYOH,morning,25
+kml_35,kml_11,KALLANG,TOA PAYOH,afternoon,4
+kml_35,kml_11,KALLANG,TOA PAYOH,evening,11
+kml_35,kml_11,KALLANG,TOA PAYOH,morning,32
+kml_35,kml_15,NOVENA,TOA PAYOH,afternoon,55
+kml_35,kml_15,NOVENA,TOA PAYOH,evening,45
+kml_35,kml_15,NOVENA,TOA PAYOH,morning,43
+kml_35,kml_18,PUNGGOL,TOA PAYOH,morning,12
+kml_35,kml_19,ANG MO KIO,TOA PAYOH,afternoon,24
+kml_35,kml_19,ANG MO KIO,TOA PAYOH,evening,15
+kml_35,kml_19,ANG MO KIO,TOA PAYOH,morning,21
+kml_35,kml_21,BISHAN,TOA PAYOH,morning,34
+kml_35,kml_28,SERANGOON,TOA PAYOH,morning,16
+kml_35,kml_35,TOA PAYOH,TOA PAYOH,afternoon,184
+kml_35,kml_35,TOA PAYOH,TOA PAYOH,evening,306
+kml_35,kml_35,TOA PAYOH,TOA PAYOH,morning,650
+kml_35,kml_35,TOA PAYOH,TOA PAYOH,night,2
+kml_35,kml_41,NEWTON,TOA PAYOH,evening,12
+kml_35,kml_41,NEWTON,TOA PAYOH,morning,3
+kml_35,kml_42,ORCHARD,TOA PAYOH,evening,13
+kml_35,kml_45,ROCHOR,TOA PAYOH,afternoon,11
+kml_35,kml_50,GEYLANG,TOA PAYOH,afternoon,11
+kml_35,kml_50,GEYLANG,TOA PAYOH,evening,13
+kml_35,kml_50,GEYLANG,TOA PAYOH,morning,15
+kml_35,kml_54,WOODLANDS,TOA PAYOH,morning,12
+kml_35,kml_55,YISHUN,TOA PAYOH,afternoon,12
+kml_35,kml_55,YISHUN,TOA PAYOH,evening,11
+kml_35,kml_55,YISHUN,TOA PAYOH,morning,4
+kml_35,kml_55,YISHUN,TOA PAYOH,night,11
+kml_35,kml_8,HOUGANG,TOA PAYOH,morning,1
+kml_36,kml_17,PIONEER,TUAS,morning,13
+kml_37,kml_1,BUKIT MERAH,DOWNTOWN CORE,afternoon,14
+kml_37,kml_1,BUKIT MERAH,DOWNTOWN CORE,morning,54
+kml_37,kml_11,KALLANG,DOWNTOWN CORE,afternoon,24
+kml_37,kml_16,PASIR RIS,DOWNTOWN CORE,morning,5
+kml_37,kml_18,PUNGGOL,DOWNTOWN CORE,morning,60
+kml_37,kml_2,BUKIT PANJANG,DOWNTOWN CORE,morning,14
+kml_37,kml_20,BEDOK,DOWNTOWN CORE,morning,12
+kml_37,kml_20,BEDOK,DOWNTOWN CORE,night,10
+kml_37,kml_21,BISHAN,DOWNTOWN CORE,morning,3
+kml_37,kml_24,QUEENSTOWN,DOWNTOWN CORE,morning,31
+kml_37,kml_26,SEMBAWANG,DOWNTOWN CORE,morning,15
+kml_37,kml_32,TAMPINES,DOWNTOWN CORE,morning,59
+kml_37,kml_33,TANGLIN,DOWNTOWN CORE,night,8
+kml_37,kml_37,DOWNTOWN CORE,DOWNTOWN CORE,evening,25
+kml_37,kml_37,DOWNTOWN CORE,DOWNTOWN CORE,morning,23
+kml_37,kml_41,NEWTON,DOWNTOWN CORE,morning,13
+kml_37,kml_42,ORCHARD,DOWNTOWN CORE,morning,6
+kml_37,kml_43,OUTRAM,DOWNTOWN CORE,morning,4
+kml_37,kml_50,GEYLANG,DOWNTOWN CORE,morning,7
+kml_37,kml_54,WOODLANDS,DOWNTOWN CORE,morning,32
+kml_37,kml_55,YISHUN,DOWNTOWN CORE,morning,22
+kml_37,kml_6,CHOA CHU KANG,DOWNTOWN CORE,dawn,9
+kml_37,kml_6,CHOA CHU KANG,DOWNTOWN CORE,evening,3
+kml_37,kml_6,CHOA CHU KANG,DOWNTOWN CORE,morning,9
+kml_4,kml_31,SUNGEI KADUT,CENTRAL WATER CATCHMENT,morning,11
+kml_4,kml_35,TOA PAYOH,CENTRAL WATER CATCHMENT,evening,9
+kml_4,kml_35,TOA PAYOH,CENTRAL WATER CATCHMENT,morning,12
+kml_4,kml_41,NEWTON,CENTRAL WATER CATCHMENT,morning,13
+kml_40,kml_1,BUKIT MERAH,MUSEUM,afternoon,9
+kml_40,kml_15,NOVENA,MUSEUM,morning,7
+kml_40,kml_16,PASIR RIS,MUSEUM,morning,19
+kml_40,kml_32,TAMPINES,MUSEUM,morning,10
+kml_40,kml_35,TOA PAYOH,MUSEUM,morning,3
+kml_41,kml_10,JURONG WEST,NEWTON,morning,4
+kml_41,kml_11,KALLANG,NEWTON,morning,1
+kml_41,kml_15,NOVENA,NEWTON,afternoon,15
+kml_41,kml_15,NOVENA,NEWTON,evening,2
+kml_41,kml_15,NOVENA,NEWTON,morning,13
+kml_41,kml_35,TOA PAYOH,NEWTON,morning,12
+kml_41,kml_37,DOWNTOWN CORE,NEWTON,evening,13
+kml_41,kml_42,ORCHARD,NEWTON,morning,12
+kml_41,kml_45,ROCHOR,NEWTON,morning,9
+kml_41,kml_55,YISHUN,NEWTON,morning,10
+kml_42,kml_19,ANG MO KIO,ORCHARD,morning,29
+kml_42,kml_20,BEDOK,ORCHARD,morning,9
+kml_42,kml_24,QUEENSTOWN,ORCHARD,evening,8
+kml_42,kml_24,QUEENSTOWN,ORCHARD,morning,46
+kml_42,kml_26,SEMBAWANG,ORCHARD,morning,12
+kml_42,kml_32,TAMPINES,ORCHARD,morning,7
+kml_42,kml_35,TOA PAYOH,ORCHARD,morning,34
+kml_42,kml_37,DOWNTOWN CORE,ORCHARD,morning,10
+kml_42,kml_41,NEWTON,ORCHARD,evening,12
+kml_42,kml_50,GEYLANG,ORCHARD,afternoon,1
+kml_42,kml_50,GEYLANG,ORCHARD,morning,7
+kml_42,kml_54,WOODLANDS,ORCHARD,morning,16
+kml_42,kml_55,YISHUN,ORCHARD,morning,31
+kml_43,kml_1,BUKIT MERAH,OUTRAM,afternoon,24
+kml_43,kml_1,BUKIT MERAH,OUTRAM,evening,24
+kml_43,kml_1,BUKIT MERAH,OUTRAM,morning,82
+kml_43,kml_24,QUEENSTOWN,OUTRAM,morning,8
+kml_43,kml_26,SEMBAWANG,OUTRAM,morning,10
+kml_43,kml_32,TAMPINES,OUTRAM,morning,4
+kml_43,kml_42,ORCHARD,OUTRAM,night,8
+kml_43,kml_43,OUTRAM,OUTRAM,afternoon,21
+kml_43,kml_43,OUTRAM,OUTRAM,morning,26
+kml_43,kml_45,ROCHOR,OUTRAM,afternoon,14
+kml_44,kml_1,BUKIT MERAH,RIVER VALLEY,morning,14
+kml_44,kml_15,NOVENA,RIVER VALLEY,morning,4
+kml_44,kml_42,ORCHARD,RIVER VALLEY,morning,4
+kml_44,kml_44,RIVER VALLEY,RIVER VALLEY,morning,35
+kml_45,kml_11,KALLANG,ROCHOR,afternoon,14
+kml_45,kml_11,KALLANG,ROCHOR,evening,10
+kml_45,kml_11,KALLANG,ROCHOR,morning,32
+kml_45,kml_15,NOVENA,ROCHOR,afternoon,41
+kml_45,kml_21,BISHAN,ROCHOR,morning,18
+kml_45,kml_32,TAMPINES,ROCHOR,morning,1
+kml_45,kml_35,TOA PAYOH,ROCHOR,morning,12
+kml_45,kml_37,DOWNTOWN CORE,ROCHOR,morning,9
+kml_45,kml_43,OUTRAM,ROCHOR,morning,14
+kml_45,kml_46,SINGAPORE RIVER,ROCHOR,morning,10
+kml_45,kml_50,GEYLANG,ROCHOR,morning,5
+kml_45,kml_8,HOUGANG,ROCHOR,afternoon,9
+kml_46,kml_1,BUKIT MERAH,SINGAPORE RIVER,evening,11
+kml_49,kml_20,BEDOK,MARINE PARADE,afternoon,37
+kml_49,kml_20,BEDOK,MARINE PARADE,evening,17
+kml_49,kml_20,BEDOK,MARINE PARADE,morning,245
+kml_49,kml_32,TAMPINES,MARINE PARADE,morning,12
+kml_49,kml_49,MARINE PARADE,MARINE PARADE,afternoon,57
+kml_49,kml_49,MARINE PARADE,MARINE PARADE,evening,37
+kml_49,kml_49,MARINE PARADE,MARINE PARADE,morning,188
+kml_49,kml_50,GEYLANG,MARINE PARADE,morning,87
+kml_5,kml_16,PASIR RIS,CHANGI,afternoon,15
+kml_5,kml_16,PASIR RIS,CHANGI,evening,14
+kml_5,kml_20,BEDOK,CHANGI,morning,11
+kml_5,kml_24,QUEENSTOWN,CHANGI,morning,12
+kml_5,kml_32,TAMPINES,CHANGI,evening,1
+kml_5,kml_50,GEYLANG,CHANGI,evening,8
+kml_50,kml_11,KALLANG,GEYLANG,afternoon,41
+kml_50,kml_11,KALLANG,GEYLANG,evening,26
+kml_50,kml_11,KALLANG,GEYLANG,morning,90
+kml_50,kml_11,KALLANG,GEYLANG,night,11
+kml_50,kml_16,PASIR RIS,GEYLANG,morning,26
+kml_50,kml_19,ANG MO KIO,GEYLANG,morning,24
+kml_50,kml_20,BEDOK,GEYLANG,afternoon,8
+kml_50,kml_20,BEDOK,GEYLANG,evening,14
+kml_50,kml_20,BEDOK,GEYLANG,morning,100
+kml_50,kml_20,BEDOK,GEYLANG,night,10
+kml_50,kml_28,SERANGOON,GEYLANG,morning,8
+kml_50,kml_32,TAMPINES,GEYLANG,evening,10
+kml_50,kml_32,TAMPINES,GEYLANG,morning,3
+kml_50,kml_35,TOA PAYOH,GEYLANG,afternoon,14
+kml_50,kml_35,TOA PAYOH,GEYLANG,evening,14
+kml_50,kml_35,TOA PAYOH,GEYLANG,morning,80
+kml_50,kml_45,ROCHOR,GEYLANG,night,6
+kml_50,kml_49,MARINE PARADE,GEYLANG,afternoon,54
+kml_50,kml_49,MARINE PARADE,GEYLANG,evening,10
+kml_50,kml_49,MARINE PARADE,GEYLANG,morning,72
+kml_50,kml_5,CHANGI,GEYLANG,morning,10
+kml_50,kml_50,GEYLANG,GEYLANG,afternoon,70
+kml_50,kml_50,GEYLANG,GEYLANG,evening,106
+kml_50,kml_50,GEYLANG,GEYLANG,morning,264
+kml_50,kml_55,YISHUN,GEYLANG,evening,17
+kml_50,kml_55,YISHUN,GEYLANG,morning,3
+kml_50,kml_6,CHOA CHU KANG,GEYLANG,afternoon,7
+kml_50,kml_8,HOUGANG,GEYLANG,morning,11
+kml_53,kml_10,JURONG WEST,WESTERN WATER CATCHMENT,morning,36
+kml_54,kml_10,JURONG WEST,WOODLANDS,afternoon,10
+kml_54,kml_10,JURONG WEST,WOODLANDS,evening,12
+kml_54,kml_10,JURONG WEST,WOODLANDS,morning,11
+kml_54,kml_10,JURONG WEST,WOODLANDS,night,14
+kml_54,kml_15,NOVENA,WOODLANDS,afternoon,13
+kml_54,kml_19,ANG MO KIO,WOODLANDS,morning,14
+kml_54,kml_19,ANG MO KIO,WOODLANDS,night,5
+kml_54,kml_2,BUKIT PANJANG,WOODLANDS,morning,4
+kml_54,kml_23,BUKIT BATOK,WOODLANDS,evening,16
+kml_54,kml_23,BUKIT BATOK,WOODLANDS,morning,12
+kml_54,kml_24,QUEENSTOWN,WOODLANDS,evening,4
+kml_54,kml_24,QUEENSTOWN,WOODLANDS,morning,18
+kml_54,kml_26,SEMBAWANG,WOODLANDS,afternoon,35
+kml_54,kml_26,SEMBAWANG,WOODLANDS,evening,23
+kml_54,kml_26,SEMBAWANG,WOODLANDS,morning,6
+kml_54,kml_27,SENGKANG,WOODLANDS,morning,11
+kml_54,kml_37,DOWNTOWN CORE,WOODLANDS,evening,12
+kml_54,kml_37,DOWNTOWN CORE,WOODLANDS,night,19
+kml_54,kml_42,ORCHARD,WOODLANDS,night,16
+kml_54,kml_54,WOODLANDS,WOODLANDS,afternoon,185
+kml_54,kml_54,WOODLANDS,WOODLANDS,evening,168
+kml_54,kml_54,WOODLANDS,WOODLANDS,morning,559
+kml_54,kml_54,WOODLANDS,WOODLANDS,night,12
+kml_54,kml_55,YISHUN,WOODLANDS,afternoon,42
+kml_54,kml_55,YISHUN,WOODLANDS,evening,14
+kml_54,kml_55,YISHUN,WOODLANDS,morning,75
+kml_54,kml_6,CHOA CHU KANG,WOODLANDS,afternoon,6
+kml_54,kml_6,CHOA CHU KANG,WOODLANDS,morning,13
+kml_54,kml_9,JURONG EAST,WOODLANDS,evening,32
+kml_54,kml_9,JURONG EAST,WOODLANDS,night,13
+kml_55,kml_10,JURONG WEST,YISHUN,afternoon,11
+kml_55,kml_11,KALLANG,YISHUN,afternoon,14
+kml_55,kml_15,NOVENA,YISHUN,afternoon,13
+kml_55,kml_15,NOVENA,YISHUN,evening,31
+kml_55,kml_15,NOVENA,YISHUN,night,5
+kml_55,kml_16,PASIR RIS,YISHUN,afternoon,10
+kml_55,kml_19,ANG MO KIO,YISHUN,afternoon,13
+kml_55,kml_19,ANG MO KIO,YISHUN,evening,37
+kml_55,kml_19,ANG MO KIO,YISHUN,morning,34
+kml_55,kml_2,BUKIT PANJANG,YISHUN,afternoon,13
+kml_55,kml_2,BUKIT PANJANG,YISHUN,morning,7
+kml_55,kml_21,BISHAN,YISHUN,afternoon,11
+kml_55,kml_23,BUKIT BATOK,YISHUN,morning,11
+kml_55,kml_26,SEMBAWANG,YISHUN,evening,22
+kml_55,kml_26,SEMBAWANG,YISHUN,morning,47
+kml_55,kml_27,SENGKANG,YISHUN,morning,15
+kml_55,kml_28,SERANGOON,YISHUN,morning,10
+kml_55,kml_35,TOA PAYOH,YISHUN,evening,16
+kml_55,kml_35,TOA PAYOH,YISHUN,morning,32
+kml_55,kml_35,TOA PAYOH,YISHUN,night,7
+kml_55,kml_37,DOWNTOWN CORE,YISHUN,evening,19
+kml_55,kml_42,ORCHARD,YISHUN,evening,23
+kml_55,kml_50,GEYLANG,YISHUN,morning,17
+kml_55,kml_50,GEYLANG,YISHUN,night,4
+kml_55,kml_54,WOODLANDS,YISHUN,evening,22
+kml_55,kml_54,WOODLANDS,YISHUN,morning,130
+kml_55,kml_55,YISHUN,YISHUN,afternoon,424
+kml_55,kml_55,YISHUN,YISHUN,evening,128
+kml_55,kml_55,YISHUN,YISHUN,morning,814
+kml_55,kml_6,CHOA CHU KANG,YISHUN,afternoon,46
+kml_55,kml_6,CHOA CHU KANG,YISHUN,evening,40
+kml_55,kml_6,CHOA CHU KANG,YISHUN,morning,36
+kml_55,kml_9,JURONG EAST,YISHUN,afternoon,11
+kml_6,kml_10,JURONG WEST,CHOA CHU KANG,evening,8
+kml_6,kml_10,JURONG WEST,CHOA CHU KANG,night,14
+kml_6,kml_19,ANG MO KIO,CHOA CHU KANG,evening,1
+kml_6,kml_2,BUKIT PANJANG,CHOA CHU KANG,afternoon,94
+kml_6,kml_2,BUKIT PANJANG,CHOA CHU KANG,evening,52
+kml_6,kml_2,BUKIT PANJANG,CHOA CHU KANG,morning,96
+kml_6,kml_23,BUKIT BATOK,CHOA CHU KANG,evening,85
+kml_6,kml_23,BUKIT BATOK,CHOA CHU KANG,morning,2
+kml_6,kml_24,QUEENSTOWN,CHOA CHU KANG,evening,12
+kml_6,kml_24,QUEENSTOWN,CHOA CHU KANG,morning,17
+kml_6,kml_26,SEMBAWANG,CHOA CHU KANG,afternoon,27
+kml_6,kml_26,SEMBAWANG,CHOA CHU KANG,evening,32
+kml_6,kml_26,SEMBAWANG,CHOA CHU KANG,morning,1
+kml_6,kml_31,SUNGEI KADUT,CHOA CHU KANG,night,11
+kml_6,kml_54,WOODLANDS,CHOA CHU KANG,afternoon,20
+kml_6,kml_54,WOODLANDS,CHOA CHU KANG,morning,14
+kml_6,kml_55,YISHUN,CHOA CHU KANG,afternoon,37
+kml_6,kml_55,YISHUN,CHOA CHU KANG,evening,38
+kml_6,kml_55,YISHUN,CHOA CHU KANG,morning,29
+kml_6,kml_6,CHOA CHU KANG,CHOA CHU KANG,afternoon,227
+kml_6,kml_6,CHOA CHU KANG,CHOA CHU KANG,evening,338
+kml_6,kml_6,CHOA CHU KANG,CHOA CHU KANG,morning,789
+kml_6,kml_6,CHOA CHU KANG,CHOA CHU KANG,night,1
+kml_6,kml_7,CLEMENTI,CHOA CHU KANG,afternoon,6
+kml_6,kml_7,CLEMENTI,CHOA CHU KANG,morning,40
+kml_6,kml_9,JURONG EAST,CHOA CHU KANG,afternoon,1
+kml_6,kml_9,JURONG EAST,CHOA CHU KANG,evening,98
+kml_6,kml_9,JURONG EAST,CHOA CHU KANG,morning,1
+kml_7,kml_10,JURONG WEST,CLEMENTI,evening,25
+kml_7,kml_10,JURONG WEST,CLEMENTI,morning,15
+kml_7,kml_15,NOVENA,CLEMENTI,evening,11
+kml_7,kml_17,PIONEER,CLEMENTI,evening,9
+kml_7,kml_2,BUKIT PANJANG,CLEMENTI,morning,15
+kml_7,kml_23,BUKIT BATOK,CLEMENTI,afternoon,14
+kml_7,kml_23,BUKIT BATOK,CLEMENTI,evening,25
+kml_7,kml_23,BUKIT BATOK,CLEMENTI,morning,54
+kml_7,kml_24,QUEENSTOWN,CLEMENTI,afternoon,53
+kml_7,kml_24,QUEENSTOWN,CLEMENTI,evening,59
+kml_7,kml_24,QUEENSTOWN,CLEMENTI,morning,166
+kml_7,kml_24,QUEENSTOWN,CLEMENTI,night,12
+kml_7,kml_3,BUKIT TIMAH,CLEMENTI,afternoon,20
+kml_7,kml_3,BUKIT TIMAH,CLEMENTI,evening,9
+kml_7,kml_3,BUKIT TIMAH,CLEMENTI,morning,6
+kml_7,kml_55,YISHUN,CLEMENTI,morning,7
+kml_7,kml_6,CHOA CHU KANG,CLEMENTI,afternoon,40
+kml_7,kml_7,CLEMENTI,CLEMENTI,afternoon,173
+kml_7,kml_7,CLEMENTI,CLEMENTI,evening,266
+kml_7,kml_7,CLEMENTI,CLEMENTI,morning,634
+kml_7,kml_9,JURONG EAST,CLEMENTI,afternoon,10
+kml_7,kml_9,JURONG EAST,CLEMENTI,evening,67
+kml_7,kml_9,JURONG EAST,CLEMENTI,morning,75
+kml_7,kml_9,JURONG EAST,CLEMENTI,night,1
+kml_8,kml_16,PASIR RIS,HOUGANG,morning,46
+kml_8,kml_18,PUNGGOL,HOUGANG,morning,22
+kml_8,kml_19,ANG MO KIO,HOUGANG,afternoon,40
+kml_8,kml_20,BEDOK,HOUGANG,afternoon,12
+kml_8,kml_20,BEDOK,HOUGANG,evening,4
+kml_8,kml_21,BISHAN,HOUGANG,afternoon,24
+kml_8,kml_21,BISHAN,HOUGANG,morning,5
+kml_8,kml_27,SENGKANG,HOUGANG,afternoon,35
+kml_8,kml_27,SENGKANG,HOUGANG,evening,54
+kml_8,kml_27,SENGKANG,HOUGANG,morning,442
+kml_8,kml_27,SENGKANG,HOUGANG,night,11
+kml_8,kml_28,SERANGOON,HOUGANG,afternoon,129
+kml_8,kml_28,SERANGOON,HOUGANG,evening,23
+kml_8,kml_28,SERANGOON,HOUGANG,morning,76
+kml_8,kml_35,TOA PAYOH,HOUGANG,morning,88
+kml_8,kml_50,GEYLANG,HOUGANG,evening,9
+kml_8,kml_55,YISHUN,HOUGANG,morning,32
+kml_8,kml_8,HOUGANG,HOUGANG,afternoon,339
+kml_8,kml_8,HOUGANG,HOUGANG,evening,268
+kml_8,kml_8,HOUGANG,HOUGANG,morning,1242
+kml_8,kml_8,HOUGANG,HOUGANG,night,30
+kml_9,kml_1,BUKIT MERAH,JURONG EAST,morning,12
+kml_9,kml_10,JURONG WEST,JURONG EAST,afternoon,48
+kml_9,kml_10,JURONG WEST,JURONG EAST,evening,48
+kml_9,kml_10,JURONG WEST,JURONG EAST,morning,295
+kml_9,kml_10,JURONG WEST,JURONG EAST,night,15
+kml_9,kml_11,KALLANG,JURONG EAST,morning,14
+kml_9,kml_18,PUNGGOL,JURONG EAST,dawn,72
+kml_9,kml_2,BUKIT PANJANG,JURONG EAST,morning,27
+kml_9,kml_23,BUKIT BATOK,JURONG EAST,afternoon,22
+kml_9,kml_23,BUKIT BATOK,JURONG EAST,morning,99
+kml_9,kml_24,QUEENSTOWN,JURONG EAST,morning,20
+kml_9,kml_26,SEMBAWANG,JURONG EAST,morning,13
+kml_9,kml_32,TAMPINES,JURONG EAST,night,11
+kml_9,kml_37,DOWNTOWN CORE,JURONG EAST,night,1
+kml_9,kml_54,WOODLANDS,JURONG EAST,afternoon,13
+kml_9,kml_54,WOODLANDS,JURONG EAST,morning,69
+kml_9,kml_55,YISHUN,JURONG EAST,evening,11
+kml_9,kml_55,YISHUN,JURONG EAST,morning,1
+kml_9,kml_6,CHOA CHU KANG,JURONG EAST,afternoon,17
+kml_9,kml_6,CHOA CHU KANG,JURONG EAST,evening,7
+kml_9,kml_6,CHOA CHU KANG,JURONG EAST,morning,105
+kml_9,kml_7,CLEMENTI,JURONG EAST,afternoon,29
+kml_9,kml_7,CLEMENTI,JURONG EAST,morning,143
+kml_9,kml_9,JURONG EAST,JURONG EAST,afternoon,183
+kml_9,kml_9,JURONG EAST,JURONG EAST,evening,89
+kml_9,kml_9,JURONG EAST,JURONG EAST,morning,449
