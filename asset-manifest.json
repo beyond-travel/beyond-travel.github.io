@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7badbf83.css",
+    "main.js": "/static/js/main.b362b3c3.js",
+    "static/js/651.9477bc67.chunk.js": "/static/js/651.9477bc67.chunk.js",
+    "static/media/fullbg.jpg": "/static/media/fullbg.aaad58e339bd0a2ea4dc.jpg",
+    "static/media/t1-9.xls": "/static/media/t1-9.a5f51fce7de74195c4a4.xls",
+    "static/media/marfreq_data.csv": "/static/media/marfreq_data.def7db604bde84230e56.csv",
+    "static/media/mar_freq_pd.csv": "/static/media/mar_freq_pd.dc31a32c388fc8b054c3.csv",
+    "static/media/mar_freq_region_summary.csv": "/static/media/mar_freq_region_summary.2f734153b67458617ea1.csv",
+    "static/media/subzone_population.csv": "/static/media/subzone_population.a5f071da9796486f3caf.csv",
+    "static/media/total_population_data.csv": "/static/media/total_population_data.94c9eeed44f74ecd351c.csv",
+    "static/media/loc_temp.csv": "/static/media/loc_temp.88b902809cf65b749ad2.csv",
+    "static/media/caregivers_adult_30_unique.csv": "/static/media/caregivers_adult_30_unique.605f8ccbfe0c87c8b07e.csv",
+    "static/media/caregivers_adult_50_unique.csv": "/static/media/caregivers_adult_50_unique.71c023ec617482c78dce.csv",
+    "static/media/caregivers_adult_75_unique.csv": "/static/media/caregivers_adult_75_unique.36738e1f0ff29fabba39.csv",
+    "static/media/caregivers_adult_100_unique.csv": "/static/media/caregivers_adult_100_unique.c8dbdcdeb5dd4bd32014.csv",
+    "static/media/caregivers_student_30_unique.csv": "/static/media/caregivers_student_30_unique.86e513357661ee23c258.csv",
+    "index.html": "/index.html",
+    "static/media/caregivers_student_50_unique.csv": "/static/media/caregivers_student_50_unique.c6d03049b1cbd2a8f612.csv",
+    "static/media/caregivers_senior_30_unique.csv": "/static/media/caregivers_senior_30_unique.aa4ea854edc1320c061a.csv",
+    "static/media/caregivers_student_75_unique.csv": "/static/media/caregivers_student_75_unique.d2bc247d584328f6fb12.csv",
+    "static/media/caregivers_senior_50_unique.csv": "/static/media/caregivers_senior_50_unique.cc3c753e3bb659d955dd.csv",
+    "static/media/caregivers_senior_75_unique.csv": "/static/media/caregivers_senior_75_unique.8c1d1cd2cc47c28d7be3.csv",
+    "static/media/caregivers_student_100_unique.csv": "/static/media/caregivers_student_100_unique.a40c15cfcd99ccbba28c.csv",
+    "static/media/caregivers_senior_100_unique.csv": "/static/media/caregivers_senior_100_unique.971ae34f942aa752b2df.csv",
+    "static/media/caregivers_child_30_unique.csv": "/static/media/caregivers_child_30_unique.5c368fa164b3ed65ff47.csv",
+    "static/media/caregivers_child_100_unique.csv": "/static/media/caregivers_child_100_unique.3dc0db024705698a85ab.csv",
+    "static/media/caregivers_child_50_unique.csv": "/static/media/caregivers_child_50_unique.3dc0db024705698a85ab.csv",
+    "static/media/caregivers_child_75_unique.csv": "/static/media/caregivers_child_75_unique.3dc0db024705698a85ab.csv",
+    "main.7badbf83.css.map": "/static/css/main.7badbf83.css.map",
+    "main.b362b3c3.js.map": "/static/js/main.b362b3c3.js.map",
+    "651.9477bc67.chunk.js.map": "/static/js/651.9477bc67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7badbf83.css",
+    "static/js/main.b362b3c3.js"
+  ]
+}
