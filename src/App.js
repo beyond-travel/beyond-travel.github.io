@@ -21,8 +21,7 @@ import MapBar from "./components/MapBar"
 // import 
 // Function to check if a coordinate is within a polygon using ray casting algorithm
 function isCoordinateWithinPolygon(coordinate, polygon) {
-  // console.log('------')
-  // console.log(coordinate, polygon)
+
   const x = parseFloat(coordinate.lon);
   const y = parseFloat(coordinate.lat);
   let inside = false;
